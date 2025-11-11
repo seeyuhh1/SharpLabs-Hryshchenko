@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\bin\Debug\net8.0\SmartHomeSystem.exe
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\bin\Debug\net8.0\SmartHomeSystem.deps.json
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\bin\Debug\net8.0\SmartHomeSystem.runtimeconfig.json
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\bin\Debug\net8.0\SmartHomeSystem.dll
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\bin\Debug\net8.0\SmartHomeSystem.pdb
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.dll
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\refint\SmartHomeSystem.dll
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.pdb
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\SmartHomeSystem.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SmartHome\SmartHomeSystem\obj\Debug\net8.0\ref\SmartHomeSystem.dll
