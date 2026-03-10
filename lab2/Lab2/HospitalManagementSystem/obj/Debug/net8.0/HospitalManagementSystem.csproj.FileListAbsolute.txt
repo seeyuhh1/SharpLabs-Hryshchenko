@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.exe
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.deps.json
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.runtimeconfig.json
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalManagementSystem.dll
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Users\Acer\source\repos\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalManagementSystem.dll
