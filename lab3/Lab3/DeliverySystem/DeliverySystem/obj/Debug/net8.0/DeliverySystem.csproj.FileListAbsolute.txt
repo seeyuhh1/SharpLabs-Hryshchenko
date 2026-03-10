@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.exe
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.deps.json
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.runtimeconfig.json
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.dll
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.pdb
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfo.cs
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.dll
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\refint\DeliverySystem.dll
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.pdb
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.genruntimeconfig.cache
+C:\Users\Acer\source\repos\DeliverySystem\DeliverySystem\obj\Debug\net8.0\ref\DeliverySystem.dll
