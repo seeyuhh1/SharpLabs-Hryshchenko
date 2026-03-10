@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\SmartHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A549A2-6217-40C3-9E17-34D8B3398F86}|SmartHomeSystem\\SmartHomeSystem.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A549A2-6217-40C3-9E17-34D8B3398F86}|SmartHomeSystem\\SmartHomeSystem.csproj|solutionrelative:smarthomesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\smarthomecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\motionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\motionsensortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\lighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\lighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\interfacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\interfacetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\devicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\devicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\coffeemachinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\coffeemachinetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|c:\\users\\acer\\source\\repos\\smarthome\\smarthomesystem.tests\\airconditionertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A097890-7B93-87C2-4961-352B028AC669}|SmartHomeSystem.Tests\\SmartHomeSystem.Tests.csproj|solutionrelative:smarthomesystem.tests\\airconditionertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\DeviceTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\DeviceTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\DeviceTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\DeviceTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:56:51.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem\\Program.cs",
+              "RelativeToolTip": "SmartHomeSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:53:34.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\IntegrationTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:57:06.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\InterfaceTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:57:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\LightTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\LightTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\LightTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\LightTests.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:57:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MotionSensorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\MotionSensorTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:58:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartHomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\SmartHomeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:58:22.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeMachineTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\CoffeeMachineTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:56:32.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AirConditionerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "RelativeDocumentMoniker": "SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\SmartHome\\SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "RelativeToolTip": "SmartHomeSystem.Tests\\AirConditionerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T19:55:52.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
